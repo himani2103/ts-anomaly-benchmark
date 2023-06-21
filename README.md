@@ -113,14 +113,14 @@ If you use this repository in your works, please cite the main article:
 | Forecasting | Transformer | GTA* <a href="#ref21" id="ref21">[21]</a> | ST | Semi | - | | - | |
 | Reconstruction | AE | AE/DAE <a href="#ref25" id="ref25">[25]</a> | T | Semi | P | | Point | |
 | Reconstruction | AE | DAGMM <a href="#ref26" id="ref26">[26]</a> | S | Un | P | | Point | |
-| Reconstruction | AE | MSCRED <a href="#ref27" id="ref27">[27]</a> | ST | Un | W | &#10003; | Subseq | |
+| Reconstruction | AE | MSCRED <a href="#ref27" id="ref27">[27]</a> | ST | Un | W | &#10003; | Subseq |https://github.com/7fantasysz/MSCRED |
 | Reconstruction | AE | USAD <a href="#ref28" id="ref28">[28]</a> | T | Un | W | | Point | |
 | Reconstruction | AE | APAE <a href="#ref29" id="ref29">[29]</a> | T | Un | W | | - | |
 | Reconstruction | AE | RANSynCoders <a href="#ref30" id="ref30">[30]</a> | ST | Un | P | &#10003; | Point | |
 | Reconstruction | AE | CAE-Ensemble <a href="#ref31" id="ref31">[31]</a> | T | Un | W | | Subseq | |
 | Reconstruction | AE | AMSL <a href="#ref32" id="ref32">[32]</a> | T | Self | W | | - | |
 | Reconstruction | VAE | LSTM-VAE <a href="#ref33" id="ref33">[33]</a> | T | Semi | P | | - | |
-| Reconstruction | VAE | OmniAnomaly <a href="#ref34" id="ref34">[34]</a> | T | Un | W | &#10003; | Point + Subseq | |
+| Reconstruction | VAE | OmniAnomaly <a href="#ref34" id="ref34">[34]</a> | T | Un | W | &#10003; | Point + Subseq |https://github.com/NetManAIOps/OmniAnomaly/ |
 | Reconstruction | VAE | STORN <a href="#ref35" id="ref35">[35]</a> | ST | Un | P | | Point | |
 | Reconstruction | VAE | GGM-VAE <a href="#ref36" id="ref36">[36]</a> | T | Un | W | | Subseq | |
 | Reconstruction | VAE | SISVAE <a href="#ref37" id="ref37">[37]</a> | T | Un | W | | Point | |
