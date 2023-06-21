@@ -137,7 +137,7 @@ If you use this repository in your works, please cite the main article:
 | Reconstruction | GAN | FGANomaly <a href="#ref48" id="ref48">[48]</a> | T | Un | W | | Point + Subseq | |
 | Reconstruction | GAN | DCT-GAN* <a href="#ref49" id="ref49">[49]</a> | T | Un | W | | - | | |
 | Reconstruction | Transformer | Anomaly Transformer <a href="#ref50" id="ref50">[50]</a> | T | Un | W | | Subseq | |
-| Reconstruction | Transformer | TranAD <a href="#ref51" id="ref51">[51]</a> | T | Un | W | &#10003; | Subseq | |
+| Reconstruction | Transformer | TranAD <a href="#ref51" id="ref51">[51]</a> | T | Un | W | &#10003; | Subseq |https://github.com/imperial-qore/TranAD |
 | Reconstruction | Transformer | DCT-GAN* <a href="#ref49" id="ref49">[49]</a> | T | Un | W | | - | |
 | Reconstruction | Transformer | MT-RVAE* <a href="#ref43" id="ref43">[43]</a> | ST | Un | W | | - | |
 | Hybrid | AE | CAE-M <a href="#ref52" id="ref52">[52]</a> | ST | Un | W | | Subseq | |
