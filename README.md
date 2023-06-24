@@ -128,13 +128,13 @@ If you use this repository in your works, please cite the main article:
 | Reconstruction | VAE | VELC <a href="#ref39" id="ref39">[39]</a> | T | Un | - | | - | |
 | Reconstruction | VAE | TopoMAD <a href="#ref40" id="ref40">[40]</a> | ST | Un | W | | Subseq | |
 | Reconstruction | VAE | PAD <a href="#ref41" id="ref41">[41]</a> | T | Un | W | | Subseq | | |
-| Reconstruction | VAE | InterFusion <a href="#ref42" id="ref42">[42]</a> | ST | Un | W | &#10003; | Subseq | |
+| Reconstruction | VAE | InterFusion <a href="#ref42" id="ref42">[42]</a> | ST | Un | W | &#10003; | Subseq |https://github.com/zhhlee/InterFusion |
 | Reconstruction | VAE | MT-RVAE* <a href="#ref43" id="ref43">[43]</a> | ST | Un | W | | - | | |
 | Reconstruction | VAE | RDSMM <a href="#ref44" id="ref44">[44]</a> | T | Un | W | | Point + Subseq | |
 | Reconstruction | GAN | MAD-GAN <a href="#ref45" id="ref45">[45]</a> | ST | Un | W | | Subseq | |
 | Reconstruction | GAN | BeatGAN <a href="#ref46" id="ref46">[46]</a> | T | Un | W | | Subseq | |
 | Reconstruction | GAN | DAEMON <a href="#ref47" id="ref47">[47]</a> | T | Un | W | &#10003; | Subseq | |
-| Reconstruction | GAN | FGANomaly <a href="#ref48" id="ref48">[48]</a> | T | Un | W | | Point + Subseq | |
+| Reconstruction | GAN | FGANomaly <a href="#ref48" id="ref48">[48]</a> | T | Un | W | | Point + Subseq |https://github.com/sxxmason/FGANomaly |
 | Reconstruction | GAN | DCT-GAN* <a href="#ref49" id="ref49">[49]</a> | T | Un | W | | - | | |
 | Reconstruction | Transformer | Anomaly Transformer <a href="#ref50" id="ref50">[50]</a> | T | Un | W | | Subseq | |
 | Reconstruction | Transformer | TranAD <a href="#ref51" id="ref51">[51]</a> | T | Un | W | &#10003; | Subseq |https://github.com/imperial-qore/TranAD |
